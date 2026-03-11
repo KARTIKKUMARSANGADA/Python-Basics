@@ -157,7 +157,7 @@ brainerhub/
 
 ## Contributing
 
-Feel free to add more examples, fix issues, or improve existing code!
+Feel free to add more examples, fix issues, or improve existing code
 
 ## License
 
